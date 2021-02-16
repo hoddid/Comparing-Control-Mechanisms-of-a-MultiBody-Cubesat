@@ -1,0 +1,42 @@
+outputs and inputs notes:
+
+Inputs needed:
+
+Never changing ones: NOTE: torques will soon be inputs that have to change!!
+
+CTORQUE1             UNITS           |  0.001
+CTORQUE2             UNITS           |  0.002
+CTORQUE3             UNITS           |  0.003
+IB11                 UNITS           |  0.02666
+IB12                 UNITS           |  0.0
+IB22                 UNITS           |  0.1333
+IB23                 UNITS           |  0.0
+IB33                 UNITS           |  0.1333
+IRW1                 UNITS           |  0.007
+IRW2                 UNITS           |  0.007
+IRW3                 UNITS           |  0.007
+MASSB                KG              |  4.0
+
+
+Things that have initial values, but then never change:
+
+Initial Value:       EP1                  UNITS           |  0.1
+Initial Value:       EP2                  UNITS           |  0.2
+Initial Value:       EP3                  UNITS           |  0.3
+Initial Value:       EP4                  UNITS           |  0.4
+Initial Value:       Q1                   UNITS           |  0.001
+Initial Value:       Q2                   UNITS           |  0.002
+Initial Value:       Q3                   UNITS           |  0.003
+Initial Value:       U1                   M/S             |  0.0
+Initial Value:       U2                   M/S             |  0.0
+Initial Value:       U3                   M/S             |  0.0
+Initial Value:       U4                   RAD/S           |  1.0
+Initial Value:       U5                   RAD/S           |  0.002
+Initial Value:       U6                   RAD/S           |  0.003
+Initial Value:       U7                   RAD/S           |  0.001
+Initial Value:       U8                   RAD/S           |  0.002
+Initial Value:       U9                   RAD/S           |  0.003
+
+
+
+

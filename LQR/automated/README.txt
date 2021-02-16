@@ -1,0 +1,1 @@
+When the Automated StepSize Tester program is run, this is where the .fig's are saved
